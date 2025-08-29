@@ -1,2 +1,2 @@
-# amandaa
-sobre mim
+# meu-primeiro-site
+Meu primeiro projeto web
