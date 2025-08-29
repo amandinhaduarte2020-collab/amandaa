@@ -1,0 +1,2 @@
+# amandaa
+sobre mim
